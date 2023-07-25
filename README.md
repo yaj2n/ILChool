@@ -1,5 +1,5 @@
-![image](https://github.com/yaj2n/ILChool/assets/54498996/f6b030b7-1f6f-459a-abd6-5693c51445e3)![image](https://github.com/yaj2n/ILChool/assets/54498996/cc980c74-1772-49d8-88e3-4f5f72153c10)![image](https://github.com/yaj2n/ILChool/assets/54498996/dd6252d4-a2ea-44e0-8997-a40e7a1f180e)# ILChool
-취준생을 위한 올인원 관리 서비스
+
+[취준생을 위한 올인원 관리 서비스]
 
 
 ![image](https://github.com/yaj2n/ILChool/assets/54498996/29ff098b-e108-4512-aed7-4b8f57f73104)
