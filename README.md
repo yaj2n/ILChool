@@ -2,7 +2,7 @@
 [취준생을 위한 올인원 관리 서비스]
 
 
-![image](https://github.com/yaj2n/ILChool/assets/54498996/29ff098b-e108-4512-aed7-4b8f57f73104)
+![image](https://github.com/yaj2n/ILChool/assets/54498996/b22843ab-aad0-439b-a7da-ee3099983c5e)
 ![image](https://github.com/yaj2n/ILChool/assets/54498996/93fd84cc-3823-455f-b8ef-08361ab05801)
 ![image](https://github.com/yaj2n/ILChool/assets/54498996/3e5b8dc9-e3bc-4315-bf82-52d8ff610d03)
 ![image](https://github.com/yaj2n/ILChool/assets/54498996/3358c608-b64b-41e8-8568-3d4385226ada)
